@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 <a href="https://linkedin.com/in/bhrateshdhangar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhrateshd" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3> align="left">Languages and Tools:</h3>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" title="Helm" alt="Helm" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/DevOpsHiveHQ/awesome-kustomize/main/img/kustomize-icon.svg" title="Kustomize" alt="Kustomize" width="40" height="40"/>
