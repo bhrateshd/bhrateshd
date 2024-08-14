@@ -1,7 +1,5 @@
 ### Hello World!! I am Bhratesh Dhangar 👋
-
-<h1 align="center">Hi 👋, I'm Bhratesh Dhangar</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate DevOps Engineer</h3>
 
 ## DevOps Engineer | AWS Certified | IaC Enthusiast
 
@@ -26,5 +24,3 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhrateshd&" alt="bhrateshd" /></p>
  questions. Let's build awesome things together! 🚀
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/645cbf295e197f85a2c3a804?variant=dark)](https://roadmap.sh)
