@@ -1,5 +1,4 @@
 <h1 align="left">Hello World!! I am Bhratesh Dhangar 👋 </h1>
-<h1 align="left">A passionate DevOps Engineer</h1>
 
 ## DevOps Engineer | AWS Certified | IaC Enthusiast
 
