@@ -40,7 +40,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 
 ### 🎖️ Badges
 
-![AWS Certified SysOps Administrator](https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator-FF9900?style=for-the-badge)
 ![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge)
 ![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-486C8D?style=for-the-badge)
 
