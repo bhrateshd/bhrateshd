@@ -13,8 +13,9 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 <a href="https://linkedin.com/in/bhrateshd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhrateshd" height="30" width="40" /></a>
 </p>
 
-<h3> align="left">Languages and Tools:</h3><a>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
+### 🛠️ Main toolkit
+<p>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" title="Helm" alt="Helm" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/DevOpsHiveHQ/awesome-kustomize/main/img/kustomize-icon.svg" title="Kustomize" alt="Kustomize" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" title="Argo CD" alt="Argo CD" width="40" height="40"/>
@@ -29,7 +30,8 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
   <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="Bash" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="40" height="40"/> </a></p>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="40" height="40"/>
+<p/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhrateshd&show_icons=true&locale=en&layout=compact" alt="bhrateshd" /></p>
 
