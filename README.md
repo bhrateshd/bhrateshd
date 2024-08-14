@@ -1,55 +1,30 @@
 ### Hello World!! I am Bhratesh Dhangar 👋
 
+<h1 align="center">Hi 👋, I'm Bhratesh Dhangar</h1>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
+
 ## DevOps Engineer | AWS Certified | IaC Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
 
-### Tech Stack
-[![GitHub mhmdio](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![GitHub mhmdio](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
-[![GitHub mhmdio](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
 
-### 🔧 Technologies and Tools
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhrateshd&label=Profile%20views&color=0e75b6&style=flat" alt="bhrateshd" /> </p>
 
-- **Cloud**: AWS
-- **Containerization**: Docker, Kubernetes
-- **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
-- **Configuration Management**: Ansible, Terraform
-- **Monitoring**: Prometheus, Grafana, ELK Stack
-- **Scripting**: Bash, Python
-- **Version Control**: Git, GitHub
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhrateshd" alt="bhrateshd" /></a> </p>
 
-### 🌱 I'm currently learning
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bhrateshd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhrateshd" height="30" width="40" /></a>
+</p>
 
-- Infrastructure as Code with CDK, CDKTF
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 👯 I'm looking to collaborate on
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhrateshd&show_icons=true&locale=en&layout=compact" alt="bhrateshd" /></p>
 
-- Open-source projects related to DevOps, cloud-native technologies, and automation
-- Building scalable and highly available systems
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhrateshd&show_icons=true&locale=en" alt="bhrateshd" /></p>
 
-### 📫 How to reach me
-
-- [https://cloudfalcon.io](https://www.linkedin.com/in/bhrateshdhangar/)
-
-### 🏆 Certifications
-
-- AWS Certified SysOps Administrator - Associate
-- AWS Certified Solutions Architect - Associate
-- HashiCorp Certified: Terraform Associate
-
-### 🎖️ Badges
-
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge)
-![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-486C8D?style=for-the-badge)
-
-![Docker Lover](https://img.shields.io/badge/Docker-Lover-2496ED?style=for-the-badge)
-![Automation Enthusiast](https://img.shields.io/badge/Automation-Enthusiast-00C7B7?style=for-the-badge)
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdio&show_icons=true&theme=radical)
-
-Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhrateshd&" alt="bhrateshd" /></p>
+ questions. Let's build awesome things together! 🚀
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/645cbf295e197f85a2c3a804?variant=dark)](https://roadmap.sh)
