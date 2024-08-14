@@ -1,65 +1,56 @@
-<p align="left">Hello World!! I am Bhratesh Dhangar</p>
+### Hello World!! I am Bhratesh Dhangar 👋
 
-###
+## DevOps Engineer | AWS Certified | IaC Enthusiast
 
-<p align="left">👨🏻‍🔬  Technical Analyst at Amdocs <br>👨🏻‍🔬  Cloud and DevOps<br>👨🏻‍🔬  <br><br>Passionate and driven DevOps engineer with expertise in Jenkins, Terraform, Docker, Kubernets, Cloud like AWS and Azure, Ansible, Sonarqube, Nexus, Git/GitHub.</p>
+Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
 
-###
+### Tech Stack
+[![GitHub mhmdio](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![GitHub mhmdio](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
+[![GitHub mhmdio](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abappdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abappdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### 🔧 Technologies and Tools
 
-###
+- **Cloud**: AWS
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
+- **Configuration Management**: Ansible, Terraform
+- **Monitoring**: Prometheus, Grafana, ELK Stack
+- **Scripting**: Bash, Python
+- **Version Control**: Git, GitHub
 
-<p align="left">Technologies I am currently working with are as</p>
+### 🌱 I'm currently learning
 
-###
+- Infrastructure as Code with CDK, CDKTF, and Pulumi
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-</div>
+### 👯 I'm looking to collaborate on
 
-###
+- Open-source projects related to DevOps, cloud-native technologies, and automation
+- Building scalable and highly available systems
 
-<p align="left">You can also connect with me with below social media handles</p>
+### 📫 How to reach me
 
-###
+- https://cloudfalcon.io
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/bhrateshdhangar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+### 🏆 Certifications
 
-###
+- AWS Certified SysOps Administrator - Associate
+- AWS Certified Solutions Architect - Associate
+- HashiCorp Certified: Terraform Associate
 
-<img src="https://raw.githubusercontent.com/abappdev/ABAppDev/master/output/snake.svg" alt="Snake animation" />
+### 🎖️ Badges
 
-###
+![AWS Certified SysOps Administrator](https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator-FF9900?style=for-the-badge)
+![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge)
+![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-486C8D?style=for-the-badge)
+
+![Docker Lover](https://img.shields.io/badge/Docker-Lover-2496ED?style=for-the-badge)
+![Automation Enthusiast](https://img.shields.io/badge/Automation-Enthusiast-00C7B7?style=for-the-badge)
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdio&show_icons=true&theme=radical)
+
+Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/645cbf295e197f85a2c3a804?variant=dark)](https://roadmap.sh)
