@@ -1,5 +1,5 @@
-### Hello World!! I am Bhratesh Dhangar 👋
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h1 align="center"> **Hello World!! I am Bhratesh Dhangar** 👋 </h1>
+<h1 align="center">A passionate DevOps Engineer</h1>
 
 ## DevOps Engineer | AWS Certified | IaC Enthusiast
 
@@ -7,8 +7,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhrateshd&label=Profile%20views&color=0e75b6&style=flat" alt="bhrateshd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhrateshd" alt="bhrateshd" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
