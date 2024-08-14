@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 
 ### 🌱 I'm currently learning
 
-- Infrastructure as Code with CDK, CDKTF, and Pulumi
+- Infrastructure as Code with CDK, CDKTF
 
 ### 👯 I'm looking to collaborate on
 
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 
 ### 📫 How to reach me
 
-- https://cloudfalcon.io
+- [https://cloudfalcon.io](https://www.linkedin.com/in/bhrateshdhangar/)
 
 ### 🏆 Certifications
 
