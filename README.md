@@ -1,8 +1,8 @@
 <h1 align="left">Hello World!! I am Bhratesh Dhangar 👋 </h1>
 
-<p align="center">
-    <img src="https://iconscout.com/lottie-animation/devops-engineer-11227408" width="600" height="300" style="border: 1px solid black;" alt="giphy.gif"/>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 
 ## DevOps Engineer | AWS Certified | IaC Enthusiast
