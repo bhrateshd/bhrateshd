@@ -33,5 +33,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhrateshd&show_icons=true&locale=en" alt="bhrateshd" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/bhrateshd/github-readme-stats)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhrateshd&" alt="bhrateshd" /></p>
 
