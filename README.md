@@ -1,8 +1,22 @@
 <h1 align="left">Hello World!! I am Bhratesh Dhangar 👋 </h1>
 
-<div align="center">
-    <img style="border:1px solid black;" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="giphy.gif" />
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .center-image {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <img class="center-image" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="giphy.gif" />
+</body>
+</html>
+
 
 
 ## DevOps Engineer | AWS Certified | IaC Enthusiast
