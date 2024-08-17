@@ -51,4 +51,4 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 <img src="https://github.com/bhrateshd/bhfrateshd/github-contribution-grid-snake.svg">
 </p>
 
-#[![](https://visitcount.itsvg.in/api?id=bhrateshd&pretty=true)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=bhrateshd&pretty=true)](https://visitcount.itsvg.in) -->
