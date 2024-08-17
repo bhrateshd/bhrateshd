@@ -1,4 +1,4 @@
-<h1 align="left">Hello World!! I am Bhratesh Dhangar 👋 </h1>
+<h1 align="left">Hello World!! I am Bhratesh 👋 </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
