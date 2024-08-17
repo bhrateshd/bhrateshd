@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=bhrateshd&date_format=j%20M%5B%20Y%5D)
 
 
-
+<!--
 ### Thanks for Visiting my GitHub Profile!
 
 ---
@@ -51,4 +51,4 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 <img src="https://github.com/bhrateshd/bhrateshd/blob/master/github-contribution-grid-snake.svg">
 </p>
 
-<!-- [![](https://visitcount.itsvg.in/api?id=bhrateshd&pretty=true)](https://visitcount.itsvg.in) -->
+ [![](https://visitcount.itsvg.in/api?id=bhrateshd&pretty=true)](https://visitcount.itsvg.in) -->
