@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 
 ---
 <p align="center">
-<img src="https://github.com/bhrateshd/bhfrateshd/github-contribution-grid-snake.svg">
+<img src="https://github.com/bhrateshd/bhrateshd/blob/master/github-contribution-grid-snake.svg">
 </p>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=bhrateshd&pretty=true)](https://visitcount.itsvg.in) -->
