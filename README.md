@@ -74,3 +74,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhrateshd&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
+
+
+## Thanks for Visiting!
+If you found my work interesting, feel free to connect with me on [LinkedIn](https://linkedin.com/in/bhrateshd) or check out more of my work [here](https://github.com/bhrateshd).
