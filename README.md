@@ -76,5 +76,22 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 </p>
 
 
-## Thanks for Visiting!
-If you found my work interesting, feel free to connect with me on [LinkedIn](https://linkedin.com/in/bhrateshd) or check out more of my work [here](https://github.com/bhrateshd).
+## 🙏 Thanks for Visiting!
+
+If you found my work interesting, feel free to connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/bhrateshdhangar" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/bhrateshd" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:bhrateshd@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+### 📂 Explore More:
+- Check out more of my work [here](https://github.com/bhrateshd).
+- View my recent projects and contributions on my [GitHub Profile](https://github.com/bhrateshd?tab=repositories).
