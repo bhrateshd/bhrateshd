@@ -62,28 +62,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
   </a>
 </p>
 
-<!-- Most Used Languages -->
-  <div>
-    <a href="https://www.enes.software/">
-      <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenes&layout=compact&theme=radical&langs_count=10" />
-    </a>
-  </div>
-  <br>
-  <div>
-    <a href="https://www.enes.software/">
-      <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=devenes&show_icons=true&theme=radical" />
-    </a>
-  </div>
-  <br>
-  <a href="https://www.enes.software/">
-    <img align="center"
-      src="https://github-readme-streak-stats.herokuapp.com?user=devenes&theme=radical&date_format=j%20M%5B%20Y%5D" />
-  </a>
-</div>
-<br>
-------------------------------------------------------------------------------------------------------------------------------
 <!-- Align the following sections to the left -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhrateshd&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
