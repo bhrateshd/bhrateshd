@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding GIF"/>
 </div>
 
-## DevOps Engineer | AWS Certified | Azure Certified | IaC Enthusiast
+## DevOps Engineer | AWS Certified | Azure Certified | Terraform Certified | IaC Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
 
