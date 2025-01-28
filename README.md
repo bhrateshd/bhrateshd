@@ -84,9 +84,9 @@ If you found my work interesting, feel free to connect with me:
   <a href="https://linkedin.com/in/bhrateshdhangar" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
-  <p align="left">
   <a href="https://www.instagram.com/bhrateshd" target="_blank">
-  </a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin-right: 10px"/>
+</a>
   <a href="https://github.com/bhrateshd" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub">
   </a>
