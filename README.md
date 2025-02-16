@@ -88,7 +88,7 @@ If you found my work interesting, feel free to connect with me:
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="25" width="30" style="margin-right: 10px"/>
   </a>
   <a href="https://github.com/bhrateshd" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub">
+    <img @src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub">
   </a>
   <a href="mailto:bhrateshd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
