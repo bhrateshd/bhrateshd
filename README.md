@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhrateshd&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=bhrateshd&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="750"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="750" alt="Coding GIF"/>
 </div>
 
 ---
@@ -22,9 +22,9 @@
 
 I'm a **DevOps Engineer** with **4.5+ years of experience** in Cloud Infrastructure, CI/CD Automation, Infrastructure as Code (IaC), GitOps, and Cloud-Native Application Deployment.
 
-I enjoy designing scalable, reliable, and automated cloud platforms using modern DevOps technologies.
+I enjoy building scalable, secure, and highly automated cloud platforms using modern DevOps technologies and best practices.
 
-## 🚀 What I Do
+### 🚀 What I Do
 
 - ☁️ Cloud Infrastructure
 - 🚀 CI/CD Pipeline Automation
@@ -62,76 +62,71 @@ I enjoy designing scalable, reliable, and automated cloud platforms using modern
 
 # 💻 Tech Stack
 
-## ☁️ Cloud
+### ☁️ Cloud
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure"/>
 </p>
 
 ---
 
-## 🚀 CI/CD & Automation
+### 🚀 CI/CD & Automation
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,terraform,ansible"/>
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,terraform,ansible"/>
 </p>
 
 ---
 
-## 📦 Containers & GitOps
+### 📦 Containers & GitOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker" width="55" alt="Docker"/>
-  &nbsp;
   <img src="https://skillicons.dev/icons?i=kubernetes" width="55" alt="Kubernetes"/>
-  &nbsp;
   <img src="https://cdn.simpleicons.org/redhatopenshift/EE0000" width="55" alt="OpenShift"/>
-  &nbsp;
   <img src="https://cdn.simpleicons.org/helm/0F1689" width="55" alt="Helm"/>
-  &nbsp;
   <img src="https://cdn.simpleicons.org/argo/EF7B4D" width="55" alt="Argo CD"/>
 </p>
 
 ---
 
-## 💻 Programming & Scripting
+### 💻 Programming & Scripting
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,typescript,bash"/>
+  <img src="https://skillicons.dev/icons?i=python,typescript,bash"/>
 </p>
 
 ---
 
-## 🗄️ Database
+### 🗄️ Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 </p>
 
 ---
 
-## 📊 Monitoring
+### 📊 Monitoring
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=grafana,prometheus"/>
-<br><br>
-<img src="https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus"/>
+  <img src="https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
 
-## 🖥️ Operating Systems
+### 🖥️ Operating Systems
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux"/>
+  <img src="https://skillicons.dev/icons?i=linux"/>
 </p>
 
 ---
 
-## 🔧 Version Control
+### 🔧 Version Control
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github"/>
+  <img src="https://skillicons.dev/icons?i=git,github"/>
 </p>
 
 ---
@@ -139,7 +134,7 @@ I enjoy designing scalable, reliable, and automated cloud platforms using modern
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=bhrateshd&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=bhrateshd&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -162,29 +157,21 @@ I enjoy designing scalable, reliable, and automated cloud platforms using modern
 # 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/bhrateshd" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/bhrateshd" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:bhrateshd@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://instagram.com/bhrateshd" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+  <a href="https://linkedin.com/in/bhrateshd" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bhrateshd" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:bhrateshd@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/bhrateshd" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="55" alt="Instagram"/>
+  </a>
 </p>
 
 ---
