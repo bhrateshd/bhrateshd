@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Engineer;AWS+Certified;Terraform+Certified;Azure+Certified;Kubernetes+Enthusiast;Open+Source+Learner" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=DevOps+Engineer;Cloud+Engineer;AWS+Certified;Terraform+Certified;Azure+Certified;Kubernetes+Enthusiast;Open+Source+Learner" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -22,107 +22,127 @@
 ---
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700"/>
-
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="750"/>
 </div>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a **DevOps Engineer** with **4.5+ years of experience** in cloud infrastructure, CI/CD automation, container orchestration, and platform engineering.
+I'm a **DevOps Engineer** with **4.5+ years of experience** in designing cloud infrastructure, automating CI/CD pipelines, implementing GitOps workflows, and deploying cloud-native applications.
 
-I enjoy building scalable, secure, and automated infrastructure using modern DevOps practices. My focus is on Infrastructure as Code, GitOps, cloud-native technologies, and deployment automation.
+I enjoy solving complex infrastructure challenges by leveraging automation, Infrastructure as Code, containerization, and cloud technologies. My goal is to build scalable, reliable, and secure platforms that enable faster software delivery.
 
-### 🚀 What I Do
+---
 
-- Design and automate CI/CD pipelines
-- Build and manage cloud infrastructure
-- Deploy containerized applications
-- Implement GitOps workflows
-- Develop automation using Python & TypeScript
-- Manage Kubernetes and OpenShift platforms
-- Automate infrastructure with Terraform
-- Monitor application and infrastructure health
-- Improve deployment reliability and operational efficiency
+## 🚀 What I Do
+
+- ☁️ Build and manage cloud infrastructure
+- 🚀 Design and maintain CI/CD pipelines
+- 🐳 Deploy and manage containerized applications
+- ☸️ Work with Kubernetes & OpenShift
+- 📦 Implement GitOps using Argo CD
+- ⚙️ Automate infrastructure using Terraform & Ansible
+- 🐍 Develop automation using Python & TypeScript
+- 📊 Monitor application and infrastructure health
+- 🔐 Improve deployment reliability and platform security
 
 ---
 
 # 🌱 Currently Learning
 
+- Platform Engineering
 - Advanced Kubernetes
 - OpenShift
-- Platform Engineering
-- GitOps Best Practices
+- GitOps
 - AWS EKS
-- Python Automation
 - AI for DevOps
+- Cloud Security
 
 ---
 
 # 🏆 Certifications
 
-- 🟠 HashiCorp Terraform Associate
+- 🟣 HashiCorp Terraform Associate
 - ⚫ GitHub Foundations
-- 🟡 Introduction to Linux (Linux Foundation)
+- 🐧 Linux Foundation (LFS101)
 - 🔵 Microsoft Azure Fundamentals
-- 🟠 AWS Cloud Practitioner
+- 🟠 AWS Certified
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-### ☁️ Cloud
+## ☁️ Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
-### 🚀 DevOps
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,githubactions"/>
+## 🚀 CI/CD & Automation
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,terraform,ansible" />
 </p>
 
-### 💻 Programming
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,bash"/>
+## 📦 Containers & GitOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="65" alt="Docker"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="65" alt="Kubernetes"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redhatopenshift/EE0000" height="65" alt="OpenShift"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/helm/0F1689" height="65" alt="Helm"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="65" alt="Argo CD"/>
 </p>
 
-### 📦 Containers & GitOps
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
-<img src="https://img.shields.io/badge/OpenShift-E00A1E?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+## 💻 Programming & Scripting
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,typescript,bash" />
 </p>
 
-### 💾 Database
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+## 🗄️ Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-### 📊 Monitoring
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=grafana,prometheus"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+## 📊 Monitoring
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+<br><br>
+<img src="https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-### 🔧 Version Control
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github"/>
+## 🖥️ Operating System
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
-### 🖥 Operating Systems
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux"/>
+## 🔧 Version Control
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
@@ -142,9 +162,7 @@ I enjoy building scalable, secure, and automated infrastructure using modern Dev
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=bhrateshd&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -152,9 +170,7 @@ I enjoy building scalable, secure, and automated infrastructure using modern Dev
 # 📊 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhrateshd&theme=tokyo-night"/>
-
 </p>
 
 ---
@@ -162,14 +178,12 @@ I enjoy building scalable, secure, and automated infrastructure using modern Dev
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=bhrateshd&theme=algolia&margin-w=10&margin-h=10"/>
-
 </p>
 
 ---
 
-# 💡 Areas of Interest
+# 🎯 Areas of Interest
 
 - ☁️ Cloud Computing
 - 🚀 DevOps
@@ -177,10 +191,10 @@ I enjoy building scalable, secure, and automated infrastructure using modern Dev
 - 🐳 Docker
 - 🌍 Platform Engineering
 - 📦 GitOps
+- 🤖 Automation
 - 🔐 Cloud Security
-- 🤖 Infrastructure Automation
-- 🐍 Python
-- 📊 Monitoring & Observability
+- 📈 Monitoring & Observability
+- 🐍 Python Development
 
 ---
 
@@ -189,37 +203,49 @@ I enjoy building scalable, secure, and automated infrastructure using modern Dev
 <p align="center">
 
 <a href="https://linkedin.com/in/bhrateshd">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/bhrateshd">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:bhrateshd@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://instagram.com/bhrateshd">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 DevOps Philosophy
-
-> **"Automate repetitive tasks, embrace Infrastructure as Code, and build reliable systems that scale."**
-
----
+# 💡 DevOps Philosophy
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+> **"Automate repetitive tasks, embrace Infrastructure as Code, and build reliable systems that scale."**
 
-If you find my work interesting, consider following me and exploring my repositories.
+</p>
 
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+If you like my work, consider ⭐ starring my repositories and connecting with me.
+</p>
+
+<p align="center">
 Happy Coding! 🚀
-
 </p>
