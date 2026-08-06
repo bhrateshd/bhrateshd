@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Cloud+Engineer;AWS+Certified;Terraform+Certified;Azure+Certified;Kubernetes+Enthusiast;Automation+Enthusiast" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=DevOps+Engineer;Cloud+Engineer;AWS+Certified;Terraform+Certified;Azure+Certified;Kubernetes+Enthusiast;Automation+Enthusiast" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -20,21 +20,21 @@
 
 # 👨‍💻 About Me
 
-I'm a **DevOps Engineer** with **4.5+ years of experience** in cloud infrastructure, CI/CD automation, GitOps, Infrastructure as Code, and cloud-native application deployments.
+I'm a **DevOps Engineer** with **4.5+ years of experience** in Cloud Infrastructure, CI/CD Automation, GitOps, Infrastructure as Code (IaC), and Cloud-Native Application Deployment.
 
-I enjoy building scalable, reliable, and secure platforms by leveraging automation, Kubernetes, Terraform, and modern DevOps practices.
+I enjoy designing scalable, secure, and highly automated platforms using modern DevOps practices.
 
 ## 🚀 What I Do
 
-- ☁️ Build and manage cloud infrastructure
-- 🚀 Design and maintain CI/CD pipelines
-- 🐳 Deploy containerized applications
-- ☸️ Manage Kubernetes & OpenShift environments
-- 📦 Implement GitOps using Argo CD
-- ⚙️ Automate infrastructure using Terraform & Ansible
-- 🐍 Develop automation using Python & TypeScript
-- 📊 Monitor infrastructure and application health
-- 🔐 Improve deployment reliability and platform security
+- ☁️ Cloud Infrastructure
+- 🚀 CI/CD Pipeline Development
+- 🐳 Containerization
+- ☸️ Kubernetes & OpenShift Administration
+- 📦 GitOps with Argo CD
+- ⚙️ Infrastructure as Code (Terraform & Ansible)
+- 🐍 Python & TypeScript Automation
+- 📊 Monitoring & Observability
+- 🔐 Platform Reliability & Security
 
 ---
 
@@ -81,15 +81,25 @@ I enjoy building scalable, reliable, and secure platforms by leveraging automati
 ## 📦 Containers & GitOps
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=docker" height="55"/>
+
 &nbsp;
+
 <img src="https://skillicons.dev/icons?i=kubernetes" height="55"/>
+
 &nbsp;
+
 <img src="https://cdn.simpleicons.org/redhatopenshift/EE0000" height="55"/>
+
 &nbsp;
+
 <img src="https://cdn.simpleicons.org/helm/0F1689" height="55"/>
+
 &nbsp;
+
 <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="55"/>
+
 </p>
 
 ---
@@ -136,24 +146,10 @@ I enjoy building scalable, reliable, and secure platforms by leveraging automati
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhrateshd&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhrateshd&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=bhrateshd&theme=github-dark-blue&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=bhrateshd&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -197,7 +193,7 @@ I enjoy building scalable, reliable, and secure platforms by leveraging automati
 
 ---
 
-<h3 align="center">⭐ Thanks for Visiting! ⭐</h3>
+<h2 align="center">⭐ Thanks for Visiting! ⭐</h2>
 
 <p align="center">
 Thanks for stopping by! Feel free to explore my repositories, connect with me, or follow my journey in DevOps and Cloud Engineering.
