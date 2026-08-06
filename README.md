@@ -13,25 +13,25 @@
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="750"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="750"/>
 </div>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a **DevOps Engineer** with **4.5+ years of experience** in Cloud Infrastructure, CI/CD Automation, GitOps, Infrastructure as Code (IaC), and Cloud-Native Application Deployment.
+I'm a **DevOps Engineer** with **4.5+ years of experience** in Cloud Infrastructure, CI/CD Automation, Infrastructure as Code (IaC), GitOps, and Cloud-Native Application Deployment.
 
-I enjoy designing scalable, secure, and highly automated platforms using modern DevOps practices.
+I enjoy designing scalable, reliable, and automated cloud platforms using modern DevOps technologies.
 
 ## 🚀 What I Do
 
 - ☁️ Cloud Infrastructure
-- 🚀 CI/CD Pipeline Development
+- 🚀 CI/CD Pipeline Automation
 - 🐳 Containerization
 - ☸️ Kubernetes & OpenShift Administration
 - 📦 GitOps with Argo CD
-- ⚙️ Infrastructure as Code (Terraform & Ansible)
+- ⚙️ Infrastructure as Code using Terraform & Ansible
 - 🐍 Python & TypeScript Automation
 - 📊 Monitoring & Observability
 - 🔐 Platform Reliability & Security
@@ -81,25 +81,15 @@ I enjoy designing scalable, secure, and highly automated platforms using modern 
 ## 📦 Containers & GitOps
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=docker" height="55"/>
-
-&nbsp;
-
-<img src="https://skillicons.dev/icons?i=kubernetes" height="55"/>
-
-&nbsp;
-
-<img src="https://cdn.simpleicons.org/redhatopenshift/EE0000" height="55"/>
-
-&nbsp;
-
-<img src="https://cdn.simpleicons.org/helm/0F1689" height="55"/>
-
-&nbsp;
-
-<img src="https://cdn.simpleicons.org/argo/EF7B4D" height="55"/>
-
+  <img src="https://skillicons.dev/icons?i=docker" width="55" alt="Docker"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="55" alt="Kubernetes"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/redhatopenshift/EE0000" width="55" alt="OpenShift"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/helm/0F1689" width="55" alt="Helm"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" width="55" alt="Argo CD"/>
 </p>
 
 ---
@@ -177,13 +167,19 @@ I enjoy designing scalable, secure, and highly automated platforms using modern 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/bhrateshd" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="mailto:bhrateshd@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://instagram.com/bhrateshd" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -196,7 +192,7 @@ I enjoy designing scalable, secure, and highly automated platforms using modern 
 <h2 align="center">⭐ Thanks for Visiting! ⭐</h2>
 
 <p align="center">
-Thanks for stopping by! Feel free to explore my repositories, connect with me, or follow my journey in DevOps and Cloud Engineering.
+Thanks for stopping by! Feel free to explore my repositories, connect with me, and follow my journey in DevOps and Cloud Engineering.
 </p>
 
 <p align="center">
