@@ -1,98 +1,213 @@
-<h1 align="left">Hello World! I am Bhratesh 👋</h1>
+<h1 align="center">Hi 👋, I'm Bhratesh Dhangar</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+Certified;Terraform+Certified;Azure+Certified;Cloud+Enthusiast;Kubernetes+%7C+Docker+%7C+GitOps;Automation+Lover" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhrateshd&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/bhrateshd">
+    <img src="https://img.shields.io/github/followers/bhrateshd?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/bhrateshd">
+    <img src="https://img.shields.io/github/stars/bhrateshd?affiliations=OWNER&style=for-the-badge" />
+  </a>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" alt="Coding GIF"/>
 </div>
 
-## DevOps Engineer | AWS Certified | Azure Certified | Terraform Certified 
+---
 
-Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
+# 🚀 About Me
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bhrateshd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+I'm a **DevOps Engineer** passionate about designing scalable cloud infrastructure, automating deployments, and building reliable CI/CD pipelines.
+
+I enjoy solving infrastructure challenges using **AWS, Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Python, Linux, and GitOps**.
+
+- 🌍 Based in India
+- ☁️ Cloud & DevOps Enthusiast
+- 🚀 Automation First Mindset
+- 📚 Always Learning New Technologies
+- ❤️ Open Source Supporter
+
+---
+
+# 🌱 Currently Learning
+
+- Kubernetes Advanced Concepts
+- OpenShift
+- ArgoCD GitOps
+- AWS EKS
+- Python Automation
+- Platform Engineering
+
+---
+
+# 🏆 Certifications
+
+- 🟠 AWS Certified
+- 🔵 Microsoft Azure Certified
+- 🟣 HashiCorp Terraform Certified
+
+---
+
+# 💻 Tech Stack
+
+### ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/bhrateshd" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
+### 🚀 DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,githubactions" />
 </p>
 
-<h3 align="left">Main tools:</h3>
-<p align="left">
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" style="margin: 10px"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" style="margin: 10px"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" style="margin: 10px"/>
-  </a>
-  <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" style="margin: 10px"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" style="margin: 10px"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" style="margin: 10px"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" style="margin: 10px"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" style="margin: 10px"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin: 10px"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin: 10px"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" style="margin: 10px"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" style="margin: 10px"/>
-  </a>
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" style="margin: 10px"/>
-  </a>
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash" />
 </p>
 
-<!-- Align the following sections to the left -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhrateshd&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+### 🐧 Operating System
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhrateshd&show_icons=true&locale=en" alt="GitHub Stats" />
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
+### 🔧 Version Control
 
-
-## 🙏 Thanks for Visiting!
-
-If you found my work interesting, feel free to connect with me:
-
-<p align="left">
-  <a href="https://linkedin.com/in/bhrateshd" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/bhrateshd" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="25" width="30" style="margin-right: 10px"/>
-  </a>
-  <a href="https://github.com/bhrateshd" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub">
-  </a>
-  <a href="mailto:bhrateshd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
+### 📊 Monitoring
 
-### 📂 Explore More:
-- Check out more of my work [here](https://github.com/bhrateshd).
-- View my recent projects and contributions on my [GitHub Profile](https://github.com/bhrateshd?tab=repositories).
+<p>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| ☁️ CloudBackupOps | Kubernetes CronJob for automated DocumentDB backups to Amazon S3 |
+| 🔐 Keycloak on Kubernetes | Helm + ArgoCD GitOps deployment |
+| 📈 Expense Tracker | Python-based expense management application |
+| 🐍 30 Days of Python | Python learning journey and exercises |
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhrateshd&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhrateshd&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=bhrateshd&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhrateshd&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=bhrateshd&theme=algolia&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/bhrateshd">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/bhrateshd">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:bhrateshd@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://instagram.com/bhrateshd">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+
+---
+
+# 📌 DevOps Toolkit
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Automate everything. Build once. Deploy everywhere."**
+
+---
+
+# 🙏 Thanks for Visiting!
+
+If you like my work, don't forget to ⭐ my repositories and connect with me.
+
+⭐ Happy Coding!
