@@ -133,9 +133,15 @@ I enjoy building scalable, secure, and highly automated cloud platforms using mo
 
 # 🔥 GitHub Streak
 
+# 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhrateshd&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="./profile/streak.svg" alt="GitHub Streak"/>
 </p>
+
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhrateshd&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p> -->
 
 ---
 
